@@ -1,0 +1,6 @@
+owner=597686867160203275
+prefix=*
+game=PRO
+stayinchannel=true
+songinstatus=false
+token=NjEyNTUxMTA1MDQxMzk5ODE4.XVkBng.AAc6Xuhq6pP9vlNfsTNRK1EyFjk
